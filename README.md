@@ -244,4 +244,4 @@ This repository serves as the official landing page for Imperium Romanum. The so
 **Get the most recent version of Imperium Romanum today!**
 
 ---
-**Last updated:** 2026-10-18 05:35:38 UTC
+**Last updated:** 2026-10-18 10:41:44 UTC
